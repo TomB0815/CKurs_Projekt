@@ -1,0 +1,26 @@
+Datensatz Nummer 0 wurde mit folgenden Daten angelegt
+----
+Sensor-Name: sensor_1
+Sensor-Position: Mitte
+Sensor-Kalibrierungswert: 100
+Mit folgenden Werten:
+Wert 0: 1
+Wert 1: 2
+Wert 2: 3
+Wert 3: 4
+Wert 4: 5
+----
+
+Datensatz Nummer 1 wurde mit folgenden Daten angelegt
+----
+Sensor-Name: Sensor_2
+Sensor-Position: Hinten
+Sensor-Kalibrierungswert: 100
+Mit folgenden Werten:
+Wert 0: 6
+Wert 1: 7
+Wert 2: 8
+Wert 3: 9
+Wert 4: 10
+----
+
